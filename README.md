@@ -11,9 +11,12 @@ This project is a RESTful API that manages user authentication using CRUD operat
 
 ## Tech Stack
 
+- **Node.js:** Provides the runtime environment for the server-side JavaScript.
+- **Express.js:** A fast and minimalist web framework for building the API.
 - **TypeScript:** Ensures strong typing and better developer experience.
 - **Prisma:** Simplifies database queries and schema management.
 - **PostgreSQL:** Stores user data securely and supports complex queries.
+
 
 ## Installation
 
